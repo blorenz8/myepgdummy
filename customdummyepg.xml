@@ -25,67 +25,67 @@
     <display-name>TrillerTV</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20240904000001" stop="20240904120001" channel="InfoWars">
-    <title>InfoWars</title>
-    <desc>The #1 independent news service in the world, battling globalism and promoting a pro-human future worldwide. Infowars is Tomorrow's News Today.</desc>
-  </programme>
   <programme start="20240904120001" stop="20240905000001" channel="InfoWars">
     <title>InfoWars</title>
     <desc>The #1 independent news service in the world, battling globalism and promoting a pro-human future worldwide. Infowars is Tomorrow's News Today.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="HuntChannel">
-    <title>Hunt Channel TV</title>
-    <desc>24/7 Hunting, Fishing, and Outdoor Programming.</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="InfoWars">
+    <title>InfoWars</title>
+    <desc>The #1 independent news service in the world, battling globalism and promoting a pro-human future worldwide. Infowars is Tomorrow's News Today.</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="HuntChannel">
     <title>Hunt Channel TV</title>
     <desc>24/7 Hunting, Fishing, and Outdoor Programming.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="HollyWire">
-    <title>HollyWire Celebrity News</title>
-    <desc>Hollywire is your 24/7 Celebrity News Channel! Get the latest celebrity news and hot celebrity gossip. We are reporting on todayâ€™s trends, entertainment, music, celebrities, movies, and more! Hollywire is working with and identifying the next generation of celebrities and global influencers. We are YOUR CELEBRITY CONNECTION!</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="HuntChannel">
+    <title>Hunt Channel TV</title>
+    <desc>24/7 Hunting, Fishing, and Outdoor Programming.</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="HollyWire">
     <title>HollyWire Celebrity News</title>
     <desc>Hollywire is your 24/7 Celebrity News Channel! Get the latest celebrity news and hot celebrity gossip. We are reporting on todayâ€™s trends, entertainment, music, celebrities, movies, and more! Hollywire is working with and identifying the next generation of celebrities and global influencers. We are YOUR CELEBRITY CONNECTION!</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="StingrayRetro">
-    <title>Stingray Retro</title>
-    <desc>Broadcasting music videos from the 1980s to the early 2010s, with some occasional pre-1980s music videos played at times.</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="HollyWire">
+    <title>HollyWire Celebrity News</title>
+    <desc>Hollywire is your 24/7 Celebrity News Channel! Get the latest celebrity news and hot celebrity gossip. We are reporting on todayâ€™s trends, entertainment, music, celebrities, movies, and more! Hollywire is working with and identifying the next generation of celebrities and global influencers. We are YOUR CELEBRITY CONNECTION!</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="StingrayRetro">
     <title>Stingray Retro</title>
     <desc>Broadcasting music videos from the 1980s to the early 2010s, with some occasional pre-1980s music videos played at times.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="RTRussiaToday">
-    <title>RT Russia Today</title>
-    <desc>RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="StingrayRetro">
+    <title>Stingray Retro</title>
+    <desc>Broadcasting music videos from the 1980s to the early 2010s, with some occasional pre-1980s music videos played at times.</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="RTRussiaToday">
     <title>RT Russia Today</title>
     <desc>RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="RTDocumentary">
-    <title>RT Documentary</title>
-    <desc>RT Documentary is a Russian documentary channel, dealing with a wide variety of topics including Russian culture and life in Russia. The channel shows documentaries mostly on Russia but also from around the globe.</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="RTRussiaToday">
+    <title>RT Russia Today</title>
+    <desc>RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="RTDocumentary">
     <title>RT Documentary</title>
     <desc>RT Documentary is a Russian documentary channel, dealing with a wide variety of topics including Russian culture and life in Russia. The channel shows documentaries mostly on Russia but also from around the globe.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="RangersTV">
-    <title>RangersTV - Rangers Football Club</title>
-    <desc>Official TV channel of Rangers Football Club. Rangers FC, based in Glasgow, competes in the Scottish Premiership, the top division of Scottish football.</desc>
+  <programme start="20240905000001" stop="20240905120001" channel="RTDocumentary">
+    <title>RT Documentary</title>
+    <desc>RT Documentary is a Russian documentary channel, dealing with a wide variety of topics including Russian culture and life in Russia. The channel shows documentaries mostly on Russia but also from around the globe.</desc>
   </programme>
   <programme start="20240904120001" stop="20240905000001" channel="RangersTV">
     <title>RangersTV - Rangers Football Club</title>
     <desc>Official TV channel of Rangers Football Club. Rangers FC, based in Glasgow, competes in the Scottish Premiership, the top division of Scottish football.</desc>
   </programme>
-  <programme start="20240904000001" stop="20240904120001" channel="TrillerTV">
+  <programme start="20240905000001" stop="20240905120001" channel="RangersTV">
+    <title>RangersTV - Rangers Football Club</title>
+    <desc>Official TV channel of Rangers Football Club. Rangers FC, based in Glasgow, competes in the Scottish Premiership, the top division of Scottish football.</desc>
+  </programme>
+  <programme start="20240904120001" stop="20240905000001" channel="TrillerTV">
     <title>TrillerTV powered by FITE</title>
     <desc>TrillerTV powered by FITE. Your home for combat sports-related programming including marquee PPV events.</desc>
   </programme>
-  <programme start="20240904120001" stop="20240905000001" channel="TrillerTV">
+  <programme start="20240905000001" stop="20240905120001" channel="TrillerTV">
     <title>TrillerTV powered by FITE</title>
     <desc>TrillerTV powered by FITE. Your home for combat sports-related programming including marquee PPV events.</desc>
   </programme>
