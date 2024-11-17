@@ -10,10 +10,6 @@
     <display-name>Triller TV</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20241117120001" stop="20241118000001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20241118000001" stop="20241118120001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -54,9 +50,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20241117120001" stop="20241118000001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20241123000001" stop="20241123120001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20241118000001" stop="20241118120001" channel="MotoGP">
     <title>MotoGP</title>
@@ -98,9 +94,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20241117120001" stop="20241118000001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20241123000001" stop="20241123120001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20241118000001" stop="20241118120001" channel="Triller TV">
     <title>Triller TV</title>
@@ -139,6 +135,10 @@
     <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20241122120001" stop="20241123000001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
+  </programme>
+  <programme start="20241123000001" stop="20241123120001" channel="Triller TV">
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
