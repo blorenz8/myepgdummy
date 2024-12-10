@@ -13,10 +13,6 @@
     <display-name>MLS Next</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20241209000001" stop="20241209120001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20241209120001" stop="20241210000001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -57,9 +53,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20241209000001" stop="20241209120001" channel="MLS Next">
-    <title>MLS Next</title>
-    <desc>MLS Next</desc>
+  <programme start="20241214120001" stop="20241215000001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20241209120001" stop="20241210000001" channel="MLS Next">
     <title>MLS Next</title>
@@ -101,9 +97,9 @@
     <title>MLS Next</title>
     <desc>MLS Next</desc>
   </programme>
-  <programme start="20241209000001" stop="20241209120001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20241214120001" stop="20241215000001" channel="MLS Next">
+    <title>MLS Next</title>
+    <desc>MLS Next</desc>
   </programme>
   <programme start="20241209120001" stop="20241210000001" channel="MotoGP">
     <title>MotoGP</title>
@@ -145,9 +141,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20241209000001" stop="20241209120001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20241214120001" stop="20241215000001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20241209120001" stop="20241210000001" channel="Triller TV">
     <title>Triller TV</title>
@@ -186,6 +182,10 @@
     <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20241214000001" stop="20241214120001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
+  </programme>
+  <programme start="20241214120001" stop="20241215000001" channel="Triller TV">
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
