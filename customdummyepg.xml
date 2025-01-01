@@ -19,10 +19,6 @@
     <display-name>Sportsnet+</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20241231120001" stop="20250101000001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20250101000001" stop="20250101120001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -67,9 +63,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20241231120001" stop="20250101000001" channel="MLS Next">
-    <title>MLS Next</title>
-    <desc>MLS Next</desc>
+  <programme start="20250106120001" stop="20250107000001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20250101000001" stop="20250101120001" channel="MLS Next">
     <title>MLS Next</title>
@@ -115,9 +111,9 @@
     <title>MLS Next</title>
     <desc>MLS Next</desc>
   </programme>
-  <programme start="20241231120001" stop="20250101000001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20250106120001" stop="20250107000001" channel="MLS Next">
+    <title>MLS Next</title>
+    <desc>MLS Next</desc>
   </programme>
   <programme start="20250101000001" stop="20250101120001" channel="MotoGP">
     <title>MotoGP</title>
@@ -163,9 +159,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20241231120001" stop="20250101000001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20250106120001" stop="20250107000001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20250101000001" stop="20250101120001" channel="Triller TV">
     <title>Triller TV</title>
@@ -211,9 +207,9 @@
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
-  <programme start="20241231120001" stop="20250101000001" channel="TSN+">
-    <title>TSN+</title>
-    <desc>TSN+</desc>
+  <programme start="20250106120001" stop="20250107000001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20250101000001" stop="20250101120001" channel="TSN+">
     <title>TSN+</title>
@@ -259,9 +255,9 @@
     <title>TSN+</title>
     <desc>TSN+</desc>
   </programme>
-  <programme start="20241231120001" stop="20250101000001" channel="Sportsnet+">
-    <title>Sportsnet+</title>
-    <desc>Sportsnet+</desc>
+  <programme start="20250106120001" stop="20250107000001" channel="TSN+">
+    <title>TSN+</title>
+    <desc>TSN+</desc>
   </programme>
   <programme start="20250101000001" stop="20250101120001" channel="Sportsnet+">
     <title>Sportsnet+</title>
@@ -304,6 +300,10 @@
     <desc>Sportsnet+</desc>
   </programme>
   <programme start="20250106000001" stop="20250106120001" channel="Sportsnet+">
+    <title>Sportsnet+</title>
+    <desc>Sportsnet+</desc>
+  </programme>
+  <programme start="20250106120001" stop="20250107000001" channel="Sportsnet+">
     <title>Sportsnet+</title>
     <desc>Sportsnet+</desc>
   </programme>
