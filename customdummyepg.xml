@@ -22,10 +22,6 @@
     <display-name>Baseball: A Film by Ken Burns</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20250126120001" stop="20250127000001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20250127000001" stop="20250127120001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -70,9 +66,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="MLS Next">
-    <title>MLS Next</title>
-    <desc>MLS Next</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="MLS Next">
     <title>MLS Next</title>
@@ -118,9 +114,9 @@
     <title>MLS Next</title>
     <desc>MLS Next</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="MLS Next">
+    <title>MLS Next</title>
+    <desc>MLS Next</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="MotoGP">
     <title>MotoGP</title>
@@ -166,9 +162,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="Triller TV">
     <title>Triller TV</title>
@@ -214,9 +210,9 @@
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="TSN+">
-    <title>TSN+</title>
-    <desc>TSN+</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="TSN+">
     <title>TSN+</title>
@@ -262,9 +258,9 @@
     <title>TSN+</title>
     <desc>TSN+</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="Sportsnet+">
-    <title>Sportsnet+</title>
-    <desc>Sportsnet+</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="TSN+">
+    <title>TSN+</title>
+    <desc>TSN+</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="Sportsnet+">
     <title>Sportsnet+</title>
@@ -310,9 +306,9 @@
     <title>Sportsnet+</title>
     <desc>Sportsnet+</desc>
   </programme>
-  <programme start="20250126120001" stop="20250127000001" channel="Baseball: A Film by Ken Burns">
-    <title>Baseball: A Film by Ken Burns</title>
-    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
+  <programme start="20250201120001" stop="20250202000001" channel="Sportsnet+">
+    <title>Sportsnet+</title>
+    <desc>Sportsnet+</desc>
   </programme>
   <programme start="20250127000001" stop="20250127120001" channel="Baseball: A Film by Ken Burns">
     <title>Baseball: A Film by Ken Burns</title>
@@ -355,6 +351,10 @@
     <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
   <programme start="20250201000001" stop="20250201120001" channel="Baseball: A Film by Ken Burns">
+    <title>Baseball: A Film by Ken Burns</title>
+    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
+  </programme>
+  <programme start="20250201120001" stop="20250202000001" channel="Baseball: A Film by Ken Burns">
     <title>Baseball: A Film by Ken Burns</title>
     <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
