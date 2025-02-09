@@ -21,6 +21,9 @@
   <channel id="Baseball: A Film by Ken Burns">
     <display-name>Baseball: A Film by Ken Burns</display-name>
   </channel>
+  <channel id="Hunt Channel">
+    <display-name>Hunt Channel</display-name>
+  </channel>
   <!-- Programs for each channel -->
   <programme start="20250207120001" stop="20250208000001" channel="F1">
     <title>Formula 1</title>
@@ -357,5 +360,53 @@
   <programme start="20250213000001" stop="20250213120001" channel="Baseball: A Film by Ken Burns">
     <title>Baseball: A Film by Ken Burns</title>
     <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
+  </programme>
+  <programme start="20250207120001" stop="20250208000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250208000001" stop="20250208120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250208120001" stop="20250209000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250209000001" stop="20250209120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250209120001" stop="20250210000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250210000001" stop="20250210120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250210120001" stop="20250211000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250211000001" stop="20250211120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250211120001" stop="20250212000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250212000001" stop="20250212120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250212120001" stop="20250213000001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250213000001" stop="20250213120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
   </programme>
 </tv>
