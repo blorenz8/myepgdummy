@@ -25,10 +25,6 @@
     <display-name>Hunt Channel</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20250209120001" stop="20250210000001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20250210000001" stop="20250210120001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -73,9 +69,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="MLS Next">
-    <title>MLS Next</title>
-    <desc>MLS Next</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="MLS Next">
     <title>MLS Next</title>
@@ -121,9 +117,9 @@
     <title>MLS Next</title>
     <desc>MLS Next</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="MLS Next">
+    <title>MLS Next</title>
+    <desc>MLS Next</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="MotoGP">
     <title>MotoGP</title>
@@ -169,9 +165,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="Triller TV">
     <title>Triller TV</title>
@@ -217,9 +213,9 @@
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="TSN+">
-    <title>TSN+</title>
-    <desc>TSN+</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="TSN+">
     <title>TSN+</title>
@@ -265,9 +261,9 @@
     <title>TSN+</title>
     <desc>TSN+</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="Sportsnet+">
-    <title>Sportsnet+</title>
-    <desc>Sportsnet+</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="TSN+">
+    <title>TSN+</title>
+    <desc>TSN+</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="Sportsnet+">
     <title>Sportsnet+</title>
@@ -313,9 +309,9 @@
     <title>Sportsnet+</title>
     <desc>Sportsnet+</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="Baseball: A Film by Ken Burns">
-    <title>Baseball: A Film by Ken Burns</title>
-    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="Sportsnet+">
+    <title>Sportsnet+</title>
+    <desc>Sportsnet+</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="Baseball: A Film by Ken Burns">
     <title>Baseball: A Film by Ken Burns</title>
@@ -361,9 +357,9 @@
     <title>Baseball: A Film by Ken Burns</title>
     <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
-  <programme start="20250209120001" stop="20250210000001" channel="Hunt Channel">
-    <title>Hunt Channel</title>
-    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  <programme start="20250215120001" stop="20250216000001" channel="Baseball: A Film by Ken Burns">
+    <title>Baseball: A Film by Ken Burns</title>
+    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
   <programme start="20250210000001" stop="20250210120001" channel="Hunt Channel">
     <title>Hunt Channel</title>
@@ -406,6 +402,10 @@
     <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
   </programme>
   <programme start="20250215000001" stop="20250215120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250215120001" stop="20250216000001" channel="Hunt Channel">
     <title>Hunt Channel</title>
     <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
   </programme>
