@@ -24,6 +24,9 @@
   <channel id="Hunt Channel">
     <display-name>Hunt Channel</display-name>
   </channel>
+  <channel id="NCAAB">
+    <display-name>NCAAB</display-name>
+  </channel>
   <!-- Programs for each channel -->
   <programme start="20250210000001" stop="20250210120001" channel="F1">
     <title>Formula 1</title>
@@ -408,5 +411,53 @@
   <programme start="20250215120001" stop="20250216000001" channel="Hunt Channel">
     <title>Hunt Channel</title>
     <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  </programme>
+  <programme start="20250210000001" stop="20250210120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250210120001" stop="20250211000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250211000001" stop="20250211120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250211120001" stop="20250212000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250212000001" stop="20250212120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250212120001" stop="20250213000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250213000001" stop="20250213120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250213120001" stop="20250214000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250214000001" stop="20250214120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250214120001" stop="20250215000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250215000001" stop="20250215120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
+  </programme>
+  <programme start="20250215120001" stop="20250216000001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
   </programme>
 </tv>
