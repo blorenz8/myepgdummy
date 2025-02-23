@@ -40,10 +40,6 @@
     <display-name>Live PD</display-name>
   </channel>
   <!-- Programs for each channel -->
-  <programme start="20250222000001" stop="20250222120001" channel="F1">
-    <title>Formula 1</title>
-    <desc>Formula 1</desc>
-  </programme>
   <programme start="20250222120001" stop="20250223000001" channel="F1">
     <title>Formula 1</title>
     <desc>Formula 1</desc>
@@ -88,9 +84,9 @@
     <title>Formula 1</title>
     <desc>Formula 1</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="MLS Next">
-    <title>MLS Next</title>
-    <desc>MLS Next</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="F1">
+    <title>Formula 1</title>
+    <desc>Formula 1</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="MLS Next">
     <title>MLS Next</title>
@@ -136,9 +132,9 @@
     <title>MLS Next</title>
     <desc>MLS Next</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="MotoGP">
-    <title>MotoGP</title>
-    <desc>MotoGP</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="MLS Next">
+    <title>MLS Next</title>
+    <desc>MLS Next</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="MotoGP">
     <title>MotoGP</title>
@@ -184,9 +180,9 @@
     <title>MotoGP</title>
     <desc>MotoGP</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Triller TV">
-    <title>Triller TV</title>
-    <desc>Triller TV powered by FITE</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="MotoGP">
+    <title>MotoGP</title>
+    <desc>MotoGP</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Triller TV">
     <title>Triller TV</title>
@@ -232,9 +228,9 @@
     <title>Triller TV</title>
     <desc>Triller TV powered by FITE</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="TSN+">
-    <title>TSN+</title>
-    <desc>TSN+</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Triller TV">
+    <title>Triller TV</title>
+    <desc>Triller TV powered by FITE</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="TSN+">
     <title>TSN+</title>
@@ -280,9 +276,9 @@
     <title>TSN+</title>
     <desc>TSN+</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Sportsnet+">
-    <title>Sportsnet+</title>
-    <desc>Sportsnet+</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="TSN+">
+    <title>TSN+</title>
+    <desc>TSN+</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Sportsnet+">
     <title>Sportsnet+</title>
@@ -328,9 +324,9 @@
     <title>Sportsnet+</title>
     <desc>Sportsnet+</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Baseball: A Film by Ken Burns">
-    <title>Baseball: A Film by Ken Burns</title>
-    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Sportsnet+">
+    <title>Sportsnet+</title>
+    <desc>Sportsnet+</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Baseball: A Film by Ken Burns">
     <title>Baseball: A Film by Ken Burns</title>
@@ -376,9 +372,9 @@
     <title>Baseball: A Film by Ken Burns</title>
     <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Hunt Channel">
-    <title>Hunt Channel</title>
-    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Baseball: A Film by Ken Burns">
+    <title>Baseball: A Film by Ken Burns</title>
+    <desc>Ken Burns' Emmy-winning documentary traces the history of America's great game, beginning with its origins in the 1840s and concluding with a summary of the years covering about 1970 to 1993. It totals nine episodes, or innings, and more than 18 hours, brought to life by contemporaneous photos, paintings, lithographs and newsreels, and the voices of actors and writers reciting over pictures and video the first-person accounts of many of baseball's legendary characters.</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Hunt Channel">
     <title>Hunt Channel</title>
@@ -424,9 +420,9 @@
     <title>Hunt Channel</title>
     <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="NCAAB">
-    <title>NCAA College Basketball</title>
-    <desc>NCAA College Basketball</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Hunt Channel">
+    <title>Hunt Channel</title>
+    <desc>24/7 Outdoor Programming. Hunt Channel offers some of the best hunting, fishing, and shooting shows out there.</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="NCAAB">
     <title>NCAA College Basketball</title>
@@ -472,9 +468,9 @@
     <title>NCAA College Basketball</title>
     <desc>NCAA College Basketball</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Paramount+">
-    <title>Paramount+</title>
-    <desc>Paramount+</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="NCAAB">
+    <title>NCAA College Basketball</title>
+    <desc>NCAA College Basketball</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Paramount+">
     <title>Paramount+</title>
@@ -520,9 +516,9 @@
     <title>Paramount+</title>
     <desc>Paramount+</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Global News">
-    <title>Global News</title>
-    <desc>Global News National 24/7 Live Stream. Global News is committed to providing Canadians with accurate, balanced, timely and comprehensive news coverage. Your source for the latest from across Canada and beyond.</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Paramount+">
+    <title>Paramount+</title>
+    <desc>Paramount+</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Global News">
     <title>Global News</title>
@@ -568,9 +564,9 @@
     <title>Global News</title>
     <desc>Global News National 24/7 Live Stream. Global News is committed to providing Canadians with accurate, balanced, timely and comprehensive news coverage. Your source for the latest from across Canada and beyond.</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Live Rescue">
-    <title>Live Rescue</title>
-    <desc>From the creators of the groundbreaking, real-time law enforcement series "Live PD" comes a version that pays tribute to firefighters, paramedics and EMTs. It captures the fast-paced drama and intensity associated with emergency rescue calls and the first responders across the country who bravely put their lives on the line to help others. Matt Iseman hosts.</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Global News">
+    <title>Global News</title>
+    <desc>Global News National 24/7 Live Stream. Global News is committed to providing Canadians with accurate, balanced, timely and comprehensive news coverage. Your source for the latest from across Canada and beyond.</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Live Rescue">
     <title>Live Rescue</title>
@@ -616,9 +612,9 @@
     <title>Live Rescue</title>
     <desc>From the creators of the groundbreaking, real-time law enforcement series "Live PD" comes a version that pays tribute to firefighters, paramedics and EMTs. It captures the fast-paced drama and intensity associated with emergency rescue calls and the first responders across the country who bravely put their lives on the line to help others. Matt Iseman hosts.</desc>
   </programme>
-  <programme start="20250222000001" stop="20250222120001" channel="Live PD">
-    <title>Live PD</title>
-    <desc>"Live PD" is a documentary series that showcases the policing of America, following police departments from across the country in real time as they patrol their communities. Incorporating dash cams along with fixed rig and handheld cameras, the series captures the work of a mix of urban and rural police forces on typical Friday and Saturday nights. As host, veteran journalist Dan Abrams gives insight into what viewers are seeing in real time.</desc>
+  <programme start="20250228000001" stop="20250228120001" channel="Live Rescue">
+    <title>Live Rescue</title>
+    <desc>From the creators of the groundbreaking, real-time law enforcement series "Live PD" comes a version that pays tribute to firefighters, paramedics and EMTs. It captures the fast-paced drama and intensity associated with emergency rescue calls and the first responders across the country who bravely put their lives on the line to help others. Matt Iseman hosts.</desc>
   </programme>
   <programme start="20250222120001" stop="20250223000001" channel="Live PD">
     <title>Live PD</title>
@@ -661,6 +657,10 @@
     <desc>"Live PD" is a documentary series that showcases the policing of America, following police departments from across the country in real time as they patrol their communities. Incorporating dash cams along with fixed rig and handheld cameras, the series captures the work of a mix of urban and rural police forces on typical Friday and Saturday nights. As host, veteran journalist Dan Abrams gives insight into what viewers are seeing in real time.</desc>
   </programme>
   <programme start="20250227120001" stop="20250228000001" channel="Live PD">
+    <title>Live PD</title>
+    <desc>"Live PD" is a documentary series that showcases the policing of America, following police departments from across the country in real time as they patrol their communities. Incorporating dash cams along with fixed rig and handheld cameras, the series captures the work of a mix of urban and rural police forces on typical Friday and Saturday nights. As host, veteran journalist Dan Abrams gives insight into what viewers are seeing in real time.</desc>
+  </programme>
+  <programme start="20250228000001" stop="20250228120001" channel="Live PD">
     <title>Live PD</title>
     <desc>"Live PD" is a documentary series that showcases the policing of America, following police departments from across the country in real time as they patrol their communities. Incorporating dash cams along with fixed rig and handheld cameras, the series captures the work of a mix of urban and rural police forces on typical Friday and Saturday nights. As host, veteran journalist Dan Abrams gives insight into what viewers are seeing in real time.</desc>
   </programme>
